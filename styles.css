@@ -1,0 +1,47 @@
+body
+{
+  background-size: cover;
+  background-origin: content-box;
+  backface-visibility: initial;
+
+  background-repeat: no-repeat;
+  border-width: 2px;
+
+}
+.text
+{
+text-shadow: all;
+position: relative;
+text-align: justify-all;
+color: rgba(011,222,41,0.3);
+
+text-decoration-style: double;
+{
+  background-color: black;
+  float: all;
+}
+.text:hover
+
+
+}
+.but
+{
+background-color: cyan;
+text-shadow:  currentColor;
+text-decoration: blink;
+text-align: center;;
+position: center;
+}
+.but:hover
+
+{
+  background-color: rgba(200,33,33);
+  float: all;
+  animation-delay: all;
+  font-style: italic;
+}
+.button
+{
+  background-color: cyan;
+text-shadow:  currentColor;
+}
